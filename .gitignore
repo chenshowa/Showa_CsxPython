@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+Ntu_DataSet/NTU_1317_Ecoupon.txt
+Ntu_DataSet/NTU_1317_Member.txt
+Ntu_DataSet/NTU_1317_Promotion.txt
+Ntu_DataSet/NTU_1317_PromotionOrders.txt
+Ntu_DataSet/欄位解釋.xlsx
+Ntu_DataSet/Ntu_Orders.csv
