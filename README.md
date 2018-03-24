@@ -9,7 +9,7 @@
 - [進階軟體開發專題GitHub](https://github.com/NTU-CSX-Project/106-2PythonSampleCode)
 - [91app資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB?usp=sharing)
 
-
+#每周實作進度
 
 ## week_1
 + 課堂練習
