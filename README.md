@@ -5,9 +5,9 @@
 
 - [課程大綱](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2005010&class=&dpt_code=H020&ser_no=76833&semester=106-2&lang=CH)
 
--- [進階軟體開發專題GitBook](https://pecu.gitbooks.io/python_/content/)
--- [進階軟體開發專題GitHub](https://github.com/NTU-CSX-Project/106-2PythonSampleCode)
--- [91app資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB?usp=sharing)
+- [進階軟體開發專題GitBook](https://pecu.gitbooks.io/python_/content/)
+- [進階軟體開發專題GitHub](https://github.com/NTU-CSX-Project/106-2PythonSampleCode)
+- [91app資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB?usp=sharing)
 
 
 
