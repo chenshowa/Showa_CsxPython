@@ -65,8 +65,11 @@
 
 + HW 5
   + 分析「好勁稻工作室（搶救嘉禾新村）」臉專PO文資訊 
-[W5課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/course_5_TFID_task.ipynb)
   
+  
+[W5課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/course_5_TFID_task.ipynb)
+
+
 ### Project1 TF-IDF + 視覺化
 + 分析「下一代幸福聯盟」與「台灣同志諮詢熱線協會」這兩個對立的社會團體公開發表的新聞稿
 目的
