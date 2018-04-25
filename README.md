@@ -37,9 +37,9 @@
 
 ## week_3
 + HW 3
-  + 
-    1.依日期分群： 觀察折價卷與訂單量之關系
-    2.依月份分群：
+  1.依日期分群： 觀察折價卷與訂單量之關系
+  
+  2.依月份分群：
 
 
 [W3課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_3/course_3_VIsualization_task.ipynb)
