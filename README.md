@@ -17,6 +17,7 @@
 + HW 1
   + 認識資料：91APP 
     
+    
 [first week task](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_1/week_1_first_HW.ipynb)
 
 ## week_2
@@ -27,7 +28,10 @@
   + 爬取雅虎商城 '電暖器' 商品名稱及售價
   + 爬取氣象資料:月均溫
 
+
 [W2課堂練習](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_2/course_2_crawler.ipynb)
+
+
 [W2課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_2/course_2_crawler-HW.ipynb)
 
 
@@ -36,6 +40,8 @@
   + 
     1.依日期分群： 觀察折價卷與訂單量之關系
     2.依月份分群：
+
+
 [W3課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_3/course_3_VIsualization_task.ipynb)
 
 
@@ -47,7 +53,10 @@
 + HW 4
   + 爬取「好勁稻工作室（搶救嘉禾新村）」POST資訊
 
+
 [W4課堂練習](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_4/course_4_Facebook_API.ipynb)
+
+
 [W4課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_4/course_4_Facebook_API_hw.ipynb)
 
 
