@@ -70,6 +70,8 @@
 [W5課後任務](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/course_5_TFID_task.ipynb)
 
 
+## 作業
+
 ### Project1 TF-IDF + 視覺化
 + 分析「下一代幸福聯盟」與「台灣同志諮詢熱線協會」這兩個對立的社會團體公開發表的新聞稿
 目的
@@ -79,9 +81,10 @@
   
 [第一次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/anti_homosexual/course_5_TFID_task.ipynb)
  
-
-#### 91APP實驗設計.pdf
-
 [實驗設計](https://github.com/chenshowa/Showa_CsxPython/blob/master/91APP%E5%AF%A6%E9%A9%97%E8%A8%AD%E8%A8%88.pdf)
+
+
+
+[ 91APP實驗設計提案](https://github.com/chenshowa/Showa_CsxPython/blob/master/91APP%E5%AF%A6%E9%A9%97%E8%A8%AD%E8%A8%88.pdf)
 
  
