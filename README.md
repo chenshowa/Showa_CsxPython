@@ -81,9 +81,8 @@
   
 [第一次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/anti_homosexual/course_5_TFID_task.ipynb)
  
-[實驗設計](https://github.com/chenshowa/Showa_CsxPython/blob/master/91APP%E5%AF%A6%E9%A9%97%E8%A8%AD%E8%A8%88.pdf)
 
-
+## 91APP電商分群分眾
 
 [ 91APP實驗設計提案](https://github.com/chenshowa/Showa_CsxPython/blob/master/91APP%E5%AF%A6%E9%A9%97%E8%A8%AD%E8%A8%88.pdf)
 
