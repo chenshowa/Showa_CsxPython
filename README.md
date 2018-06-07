@@ -81,6 +81,32 @@
   
 [第一次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_5/anti_homosexual/course_5_TFID_task.ipynb)
  
+ ### Project2 鐵達尼號生存預測
+
+  
+[第二次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_8/titanic.ipynb)
+ 
+
+ ### Project3 檢定分析方法
++ 使用空汙資料練習使用統計檢定分法
+
+  + 練習使用T-test分析
+  + 練習使用ANOVA分析
+  
+[第三次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_9/anova.ipynb)
+
+
+ ### Project4 Apriori演算法用於91app電商資料
++ 練習使用Apriori演算法，尋找店商資料feature的關聯性
+
+  
+[第四次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_11/Project_4_Apriori.ipynb)
+
+ ### Project5 嘗試用pytorch 建立模型
+
+  
+[第五次作業](https://github.com/chenshowa/Showa_CsxPython/blob/master/week_12/pytorch%20practice.ipynb)
+
 
 ## 91APP電商分群分眾
 
