@@ -113,8 +113,6 @@
 [ 91APP實驗設計提案](https://github.com/chenshowa/Showa_CsxPython/blob/master/91APP%E5%AF%A6%E9%A9%97%E8%A8%AD%E8%A8%88.pdf)
 
 
-## 91APP電商分群分眾---期末報告
 
-[期末報告]（https://github.com/chenshowa/Showa_CsxPython/blob/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf)
  
  
